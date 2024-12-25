@@ -1,0 +1,3 @@
+/home/vansgay/code/Project/OperatorTestF/build/CMakeFiles/demo.dir
+/home/vansgay/code/Project/OperatorTestF/build/CMakeFiles/edit_cache.dir
+/home/vansgay/code/Project/OperatorTestF/build/CMakeFiles/rebuild_cache.dir

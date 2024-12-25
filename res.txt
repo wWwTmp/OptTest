@@ -1,0 +1,24 @@
+
+PointMul PointAdd EccPairing Hash SymEnc SymDec RsaEnc RsaDec 
+
+
+//这个版本是用
+Opt no.1 Time cost=0.00053411ms
+Opt no.2 Time cost=0.00515318ms
+Opt no.3 Time cost=0.79514ms
+Opt no.4 Time cost=0.00418937ms
+Opt no.5 Time cost=0.00254669ms
+Opt no.6 Time cost=0.00231425ms
+Opt no.7 Time cost=0.00863663ms
+Opt no.8 Time cost=0.0140736ms
+
+
+//这个版本是用密文进行解密
+Opt PointMul   Time cost=0.00188323ms
+Opt PointAdd   Time cost=0.00737611ms
+Opt EccPairing   Time cost=0.744811ms
+Opt Hash   Time cost=0.00451585ms
+Opt SymEnc   Time cost=0.0053939ms
+Opt SymDec   Time cost=0.00238517ms
+Opt RsaEnc   Time cost=0.0112987ms
+Opt RsaDec   Time cost=0.00889996ms
